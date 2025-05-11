@@ -16,6 +16,10 @@
       "*.log",
       "venv",
       "*.DS_Store"
-    ]
+    ],
+    "environment_variables": {
+      "DATABASE_URL": "postgresql+psycopg://postgres:MyCoffeeShop12345678_@db.ogshbrdtusjpcmivctmk.supabase.co:5432/postgres",
+      
+    }
   }
 }

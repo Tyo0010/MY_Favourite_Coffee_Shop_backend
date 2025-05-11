@@ -11,6 +11,8 @@ def get_coffee_shops():
     coffee_shops = CoffeeShop.query.all()
     return jsonify([coffee_shop.serialize() for coffee_shop in coffee_shops]), 200
 
+
+
 @blueprint.route('/new_coffee_shop', methods=['POST'])
 def new_coffee_shop():
     if not request.json:

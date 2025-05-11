@@ -3,7 +3,7 @@
     "app_function": "app.app",
     "project_name": "MY_Favourite_Coffee_Shop_backend",
     "runtime": "python3.11",
-    "s3_bucket": "zappa-Coffee-Shop-unique-bucket",
+    "s3_bucket": "zappa-coffee-shop-unique-bucket-tyo-0010",
     "aws_region": "ap-southeast-1",
     "timeout_seconds": 60,
     "memory_size": 256,

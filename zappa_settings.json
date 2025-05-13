@@ -19,7 +19,7 @@
     ],
     "environment_variables": {
       "DATABASE_URL": "postgresql+psycopg://postgres:MyCoffeeShop12345678_@db.ogshbrdtusjpcmivctmk.supabase.co:5432/postgres",
-      "SECRET_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9nc2hicmR0dXNqcGNtaXZjdG1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDYxNTU1NDMsImV4cCI6MjA2MTczMTU0M30.1uhB_eT-Qje3sWuAG2ak-3TcTQiLO7wzd12_rPzpbmU", // Add your secret key from .env
+      "SECRET_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9nc2hicmR0dXNqcGNtaXZjdG1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDYxNTU1NDMsImV4cCI6MjA2MTczMTU0M30.1uhB_eT-Qje3sWuAG2ak-3TcTQiLO7wzd12_rPzpbmU"
     }
   }
 }
